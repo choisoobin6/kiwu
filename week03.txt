@@ -1,7 +1,10 @@
 리눅스 명령어
 clear
+mkdir 폴더이름 --> 폴더 만드는 코
 
 깃 명령어
 git clone 원격리포지토리주소    -> 폴더 안에 폴더 안으로 가져오는 것
 git clone 원격리포지토리주소 .   -> 현재 폴더에 바로 가져오는 것
 git log --oneline
+git remote -v  --> 현재 오리진 주소 확인 명령
+git remote remove origin
