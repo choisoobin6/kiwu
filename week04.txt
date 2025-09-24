@@ -1,5 +1,16 @@
 리눅스 명령어
 cp 원본파일 복사본 파일
+<<<<<<< HEAD
 
 깃 명령어
 git log --oneline --graph(--graph --oneline)
+=======
+touch 파일 파일 파일
+
+깃 명령어
+git log --oneline --graph(git log --graph --oneline)
+
+
+기타
+.git ignore 
+>>>>>>> 9f42e3adb1a144cd32d0edbb253bdc5ebe41afbe
